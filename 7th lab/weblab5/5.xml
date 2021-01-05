@@ -1,0 +1,29 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<STUDENTDATA>
+        <STUDENT>
+                 <USN>USN:4MT17IS038</USN>
+                 <NAME>NAME:PRATHEEKSHA SHASTRI</NAME>
+                 <COLLEGE>COLLEGE:MITE</COLLEGE>
+                 <BRANCH>BRANCH:ISE</BRANCH>
+                 <YEAR>YEAR:2017</YEAR>
+                 <EMAIL>EMAIL:pratheeksha9999@gmail.com</EMAIL>
+        </STUDENT>
+
+        <STUDENT>
+                <USN>USN:4MT17IS04</USN>
+                <NAME>NAME:RASHMITHA</NAME>
+                <COLLEGE>COLLEGE:MITE</COLLEGE>
+                <BRANCH>BRANCH:ISE</BRANCH>
+                <YEAR>YEAR:2017</YEAR>
+                <EMAIL>EMAIL:rashmithas585@gmail.com</EMAIL>
+        </STUDENT>
+
+        <STUDENT>
+                <USN>USN:4MT17IS001</USN>
+                <NAME>NAME:PRAVEEN</NAME>
+                <COLLEGE>COLLEGE:MITE</COLLEGE>
+                <BRANCH>BRANCH:ISE</BRANCH>
+                <YEAR>YEAR:2017</YEAR>
+                <EMAIL>EMAIL:praveen99@gmail.com</EMAIL>
+        </STUDENT>
+</STUDENTDATA>
